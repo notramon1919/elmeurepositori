@@ -9,4 +9,4 @@
 2. ELemento 2
 3. Elemento 3
 ### Mira que imagen más guay
-![Buscaminas]([[/home/rammarads/Downloads/baixa.jpeg](https://imagenes.elpais.com/resizer/7h3tfk0DLAi5j265h4va_fCK1Yc=/980x0/arc-anglerfish-eu-central-1-prod-prisa.s3.amazonaws.com/public/ZQLGLQKZJMFWAWTIUQ7PAS3AWY.jpg)]
+![](https://imagenes.elpais.com/resizer/7h3tfk0DLAi5j265h4va_fCK1Yc=/980x0/arc-anglerfish-eu-central-1-prod-prisa.s3.amazonaws.com/public/ZQLGLQKZJMFWAWTIUQ7PAS3AWY.jpg)
